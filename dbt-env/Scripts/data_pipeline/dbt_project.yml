@@ -1,0 +1,29 @@
+name: 'data_pipeline'
+version: '1.0.0'
+profile: 'data_pipeline'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  data_pipeline:
+    staging:
+      +materialized: view
+      +schema: DBT_SCHEMA_STAGING
+    marts:
+      DEX_TRADES:
+        +materialized: table
+        +schema: DBT_SCHEMA_DEX_TRADES
+        snowflake_warehouse: 'dbt_wh'
+      TRANSFERS:
+        +materialized: table
+        +schema: DBT_SCHEMA_TRANSFERS
+        snowflake_warehouse: 'dbt_wh'

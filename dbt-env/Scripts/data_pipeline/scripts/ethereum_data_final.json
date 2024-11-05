@@ -1,0 +1,1370 @@
+{
+    "data": {
+        "ethereum": {
+            "transfers": [
+                {
+                    "currency": {
+                        "symbol": "LAND",
+                        "address": "0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d"
+                    },
+                    "count": 13,
+                    "senders": 7,
+                    "receivers": 8,
+                    "amount": 1.2737129816104781e+78,
+                    "amount_usd": 0.0,
+                    "median": 1.157920892373162e+77,
+                    "maximum": 1.157920892373162e+77
+                },
+                {
+                    "currency": {
+                        "symbol": "BEB",
+                        "address": "0x427b8efee2d6453bb1c59849f164c867e4b2b376"
+                    },
+                    "count": 170,
+                    "senders": 3,
+                    "receivers": 48,
+                    "amount": 9.983118783322156e+60,
+                    "amount_usd": 0.0,
+                    "median": 5.687079809468174e+58,
+                    "maximum": 1.1484957456088105e+59
+                },
+                {
+                    "currency": {
+                        "symbol": "ENS4",
+                        "address": "0xf50550d04b608004a0dc7af6dc614de4944a285b"
+                    },
+                    "count": 34,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 1.748803311259582e+60,
+                    "amount_usd": 0.0,
+                    "median": 5.633728479034496e+58,
+                    "maximum": 1.0426045216212944e+59
+                },
+                {
+                    "currency": {
+                        "symbol": "PT404",
+                        "address": "0xe8ab9100fa0c4a1f9d947b6913a9dbf556cdc002"
+                    },
+                    "count": 22,
+                    "senders": 2,
+                    "receivers": 3,
+                    "amount": 1.157920892373162e+60,
+                    "amount_usd": 0.0,
+                    "median": 5.78960446186581e+58,
+                    "maximum": 5.78960446186581e+58
+                },
+                {
+                    "currency": {
+                        "symbol": "RARI",
+                        "address": "0xc9154424b823b10579895ccbe442d41b9abd96ed"
+                    },
+                    "count": 23,
+                    "senders": 4,
+                    "receivers": 10,
+                    "amount": 1.1223667372045504e+60,
+                    "amount_usd": 0.0,
+                    "median": 5.048345464981467e+58,
+                    "maximum": 1.1141114868045474e+59
+                },
+                {
+                    "currency": {
+                        "symbol": "ZNS",
+                        "address": "0x51bd5948cf84a1041d2720f56ded5e173396fc95"
+                    },
+                    "count": 6,
+                    "senders": 3,
+                    "receivers": 3,
+                    "amount": 2.9701339368452508e+59,
+                    "amount_usd": 0.0,
+                    "median": 6.475413674942113e+58,
+                    "maximum": 7.884561789781326e+58
+                },
+                {
+                    "currency": {
+                        "symbol": "UD",
+                        "address": "0x049aba7510f45ba5b64ea9e658e342f904db358d"
+                    },
+                    "count": 5,
+                    "senders": 2,
+                    "receivers": 2,
+                    "amount": 2.7627117857231767e+59,
+                    "amount_usd": 0.0,
+                    "median": 6.46665912573982e+58,
+                    "maximum": 1.006265411553177e+59
+                },
+                {
+                    "currency": {
+                        "symbol": "ZNS",
+                        "address": "0x1a178cfd768f74b3308cbca9998c767f4e5b2cf8"
+                    },
+                    "count": 5,
+                    "senders": 5,
+                    "receivers": 5,
+                    "amount": 2.0799729471090455e+59,
+                    "amount_usd": 0.0,
+                    "median": 4.391662722185374e+58,
+                    "maximum": 9.508252562806033e+58
+                },
+                {
+                    "currency": {
+                        "symbol": "ZNS",
+                        "address": "0x05f81f870cbca79e9171f22886b58b5597a603aa"
+                    },
+                    "count": 3,
+                    "senders": 3,
+                    "receivers": 2,
+                    "amount": 1.8289101692603866e+59,
+                    "amount_usd": 0.0,
+                    "median": 5.892957649115894e+58,
+                    "maximum": 9.873639588133656e+58
+                },
+                {
+                    "currency": {
+                        "symbol": "ZID",
+                        "address": "0xc14ea65f0a478c649b7a037bc0ad0a765b49196b"
+                    },
+                    "count": 3,
+                    "senders": 2,
+                    "receivers": 2,
+                    "amount": 1.5868672475857191e+59,
+                    "amount_usd": 0.0,
+                    "median": 5.539953532890805e+58,
+                    "maximum": 9.042323052295337e+58
+                },
+                {
+                    "currency": {
+                        "symbol": "ONP",
+                        "address": "0x35aab5c69cea76e643fd3287ac9523bd670445b2"
+                    },
+                    "count": 3,
+                    "senders": 2,
+                    "receivers": 2,
+                    "amount": 1.4189326189983592e+59,
+                    "amount_usd": 0.0,
+                    "median": 4.9752103051195654e+58,
+                    "maximum": 4.9752103051195654e+58
+                },
+                {
+                    "currency": {
+                        "symbol": "CTZN",
+                        "address": "0xd37ea75dd3c499eda76304f538cbf356ed9e7ed9"
+                    },
+                    "count": 4,
+                    "senders": 3,
+                    "receivers": 3,
+                    "amount": 1.239430099128284e+59,
+                    "amount_usd": 0.0,
+                    "median": 3.09857524782071e+58,
+                    "maximum": 3.09857524782071e+58
+                },
+                {
+                    "currency": {
+                        "symbol": "zNS",
+                        "address": "0xc2e9678a71e50e5aed036e00e9c5caeb1ac5987d"
+                    },
+                    "count": 3,
+                    "senders": 3,
+                    "receivers": 3,
+                    "amount": 1.2014678514898885e+59,
+                    "amount_usd": 0.0,
+                    "median": 3.713847527679482e+58,
+                    "maximum": 7.244530339228347e+58
+                },
+                {
+                    "currency": {
+                        "symbol": "OKXAINEW",
+                        "address": "0x741512954cb6f8e5d3cd9321c07462b05b7cc8d5"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 1.141123385105168e+59,
+                    "amount_usd": 0.0,
+                    "median": 1.141123385105168e+59,
+                    "maximum": 1.141123385105168e+59
+                },
+                {
+                    "currency": {
+                        "symbol": "ZNS",
+                        "address": "0x90a1f4b78fa4198bb620b7686f510fd476ec7a0b"
+                    },
+                    "count": 2,
+                    "senders": 2,
+                    "receivers": 2,
+                    "amount": 1.1225501251314978e+59,
+                    "amount_usd": 0.0,
+                    "median": 1.1202614783580312e+59,
+                    "maximum": 1.1202614783580312e+59
+                },
+                {
+                    "currency": {
+                        "symbol": "ZNS",
+                        "address": "0x35d2f3cdaf5e2dea9e6ae3553a4caacba860a395"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 1.1066357541652699e+59,
+                    "amount_usd": 0.0,
+                    "median": 1.1066357541652699e+59,
+                    "maximum": 1.1066357541652699e+59
+                },
+                {
+                    "currency": {
+                        "symbol": "EOA",
+                        "address": "0x51be4efcf30bad27d20a172bb8b49afe7e70e135"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 8.948544698933495e+58,
+                    "amount_usd": 0.0,
+                    "median": 8.948544698933495e+58,
+                    "maximum": 8.948544698933495e+58
+                },
+                {
+                    "currency": {
+                        "symbol": "POM",
+                        "address": "0x187e3bf7a18cf0dbce3e0b6d2ccc00ce444f61a7"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 8.728090810801193e+58,
+                    "amount_usd": 0.0,
+                    "median": 8.728090810801193e+58,
+                    "maximum": 8.728090810801193e+58
+                },
+                {
+                    "currency": {
+                        "symbol": "XNAME",
+                        "address": "0x577bdd0a8aa2f851afe7e09e9d7466d98eceb368"
+                    },
+                    "count": 2,
+                    "senders": 2,
+                    "receivers": 2,
+                    "amount": 5.704477315768301e+58,
+                    "amount_usd": 0.0,
+                    "median": 2.8522386578841506e+58,
+                    "maximum": 2.8522386578841506e+58
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "0xc2e0ca5fe0b9abe1b86f3cc0b865448908d20a16"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 5.339371338417661e+58,
+                    "amount_usd": 0.0,
+                    "median": 5.339371338417661e+58,
+                    "maximum": 5.339371338417661e+58
+                },
+                {
+                    "currency": {
+                        "symbol": "WILDCRAFT",
+                        "address": "0xe4954e4fb3c448f4efbc1f8ec40ed54a2a1cc1f5"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 2.330291469827634e+58,
+                    "amount_usd": 0.0,
+                    "median": 2.330291469827634e+58,
+                    "maximum": 2.330291469827634e+58
+                },
+                {
+                    "currency": {
+                        "symbol": "NOT",
+                        "address": "0x0027449bf0887ca3e431d263ffdefb244d95b555"
+                    },
+                    "count": 2,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 2.315841784746324e+58,
+                    "amount_usd": 0.0,
+                    "median": 1.157920892373162e+58,
+                    "maximum": 1.157920892373162e+58
+                },
+                {
+                    "currency": {
+                        "symbol": "ApeGang",
+                        "address": "0x2118fa9369b9a52fb6bf8cf3fd392643d55a53b4"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 4.981676894159713e+57,
+                    "amount_usd": 0.0,
+                    "median": 4.981676894159713e+57,
+                    "maximum": 4.981676894159713e+57
+                },
+                {
+                    "currency": {
+                        "symbol": "BT0",
+                        "address": "0xd5b0f341cb6db2a8022e1e1c13dc4404870a510c"
+                    },
+                    "count": 35,
+                    "senders": 11,
+                    "receivers": 13,
+                    "amount": 2.561194933379311e+51,
+                    "amount_usd": 0.0,
+                    "median": 7.761515895972665e+49,
+                    "maximum": 7.77204712513952e+49
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 880,
+                    "senders": 146,
+                    "receivers": 181,
+                    "amount": 3.134053755618409e+32,
+                    "amount_usd": 0.0,
+                    "median": 1.83732640512361e+29,
+                    "maximum": 3.9195800574936905e+30
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 5,
+                    "senders": 3,
+                    "receivers": 4,
+                    "amount": 1.9401342679260137e+31,
+                    "amount_usd": 0.0,
+                    "median": 3.491384740378164e+30,
+                    "maximum": 7.279864238222421e+30
+                },
+                {
+                    "currency": {
+                        "symbol": "AV",
+                        "address": "0x269363665dbb1582b143099a3cb467e98a476d55"
+                    },
+                    "count": 5,
+                    "senders": 4,
+                    "receivers": 3,
+                    "amount": 4.036821393633344e+30,
+                    "amount_usd": 0.0,
+                    "median": 1.0198097066539803e+30,
+                    "maximum": 1.2931225113029348e+30
+                },
+                {
+                    "currency": {
+                        "symbol": "N2MOwners",
+                        "address": "0x00000000001594c61dd8a6804da9ab58ed2483ce"
+                    },
+                    "count": 2,
+                    "senders": 1,
+                    "receivers": 2,
+                    "amount": 1.1453831980111993e+30,
+                    "amount_usd": 0.0,
+                    "median": 8.895271672596176e+29,
+                    "maximum": 8.895271672596176e+29
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 337,
+                    "senders": 190,
+                    "receivers": 102,
+                    "amount": 8.172972010504486e+28,
+                    "amount_usd": 0.0,
+                    "median": 1.1e+26,
+                    "maximum": 3.0016568436800125e+27
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 1967,
+                    "senders": 62,
+                    "receivers": 571,
+                    "amount": 2.1559265230150467e+28,
+                    "amount_usd": 0.0,
+                    "median": 1.5394484109685184e+23,
+                    "maximum": 1e+28
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 2,
+                    "senders": 1,
+                    "receivers": 2,
+                    "amount": 9.356885142982262e+27,
+                    "amount_usd": 0.0,
+                    "median": 7.434112028040074e+27,
+                    "maximum": 7.434112028040074e+27
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 5,
+                    "senders": 4,
+                    "receivers": 3,
+                    "amount": 8.68572194581084e+27,
+                    "amount_usd": 0.0,
+                    "median": 5.535854121911286e+26,
+                    "maximum": 7.076359664543823e+27
+                },
+                {
+                    "currency": {
+                        "symbol": "vEQ",
+                        "address": "0x8d6fd650500f82c7d978a440348e5a9b886943bf"
+                    },
+                    "count": 339,
+                    "senders": 157,
+                    "receivers": 178,
+                    "amount": 3.885418247059264e+27,
+                    "amount_usd": 0.0,
+                    "median": 1.1666921232251296e+25,
+                    "maximum": 1.1716602457821752e+25
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 6,
+                    "senders": 4,
+                    "receivers": 4,
+                    "amount": 3.302685536377178e+27,
+                    "amount_usd": 0.0,
+                    "median": 4.909599796029992e+26,
+                    "maximum": 1.1569880360631733e+27
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 3,
+                    "senders": 2,
+                    "receivers": 3,
+                    "amount": 2.0012698038191732e+27,
+                    "amount_usd": 0.0,
+                    "median": 9.906285528904906e+26,
+                    "maximum": 1.0006349019095866e+27
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 2,
+                    "senders": 2,
+                    "receivers": 2,
+                    "amount": 1.9541669524189594e+27,
+                    "amount_usd": 0.0,
+                    "median": 9.770834762094797e+26,
+                    "maximum": 9.770834762094797e+26
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 3,
+                    "senders": 2,
+                    "receivers": 3,
+                    "amount": 6.88882339636517e+26,
+                    "amount_usd": 0.0,
+                    "median": 3.435800668937129e+26,
+                    "maximum": 3.444411698182585e+26
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 2,
+                    "senders": 2,
+                    "receivers": 2,
+                    "amount": 6.622440222269705e+26,
+                    "amount_usd": 0.0,
+                    "median": 3.765414424799511e+26,
+                    "maximum": 3.765414424799511e+26
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 168,
+                    "senders": 40,
+                    "receivers": 48,
+                    "amount": 5.391765377926349e+26,
+                    "amount_usd": 0.0,
+                    "median": 2.3222994343249075e+24,
+                    "maximum": 2.5722315669143816e+25
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 47,
+                    "senders": 13,
+                    "receivers": 13,
+                    "amount": 3.5828657365828e+26,
+                    "amount_usd": 0.0,
+                    "median": 7.192727584111251e+24,
+                    "maximum": 2.82744078343463e+25
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 169,
+                    "senders": 67,
+                    "receivers": 64,
+                    "amount": 3.4371387159810734e+26,
+                    "amount_usd": 0.0,
+                    "median": 1.0908048e+24,
+                    "maximum": 2.234774718756957e+25
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 36,
+                    "senders": 17,
+                    "receivers": 13,
+                    "amount": 2.071174908804481e+26,
+                    "amount_usd": 0.0,
+                    "median": 1.3780446782537855e+24,
+                    "maximum": 1.3742608739107443e+26
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 31,
+                    "senders": 12,
+                    "receivers": 19,
+                    "amount": 1.7904225276961296e+26,
+                    "amount_usd": 0.0,
+                    "median": 5e+24,
+                    "maximum": 2.0000999e+25
+                },
+                {
+                    "currency": {
+                        "symbol": "vEQ",
+                        "address": "0x86358f7b33b599c484e0335b8ee4f7f7f92d8b60"
+                    },
+                    "count": 43,
+                    "senders": 20,
+                    "receivers": 24,
+                    "amount": 1.7738341307564756e+26,
+                    "amount_usd": 0.0,
+                    "median": 4.2331126444964746e+24,
+                    "maximum": 4.240258574201814e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 34,
+                    "senders": 10,
+                    "receivers": 15,
+                    "amount": 1.2544530774726252e+26,
+                    "amount_usd": 0.0,
+                    "median": 3.145468831525142e+24,
+                    "maximum": 1.3067370263431034e+25
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 14,
+                    "senders": 10,
+                    "receivers": 6,
+                    "amount": 9.497394552883425e+25,
+                    "amount_usd": 0.0,
+                    "median": 5.0093997033e+24,
+                    "maximum": 1.967267094258014e+25
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 56,
+                    "senders": 30,
+                    "receivers": 29,
+                    "amount": 9.345887564571108e+25,
+                    "amount_usd": 0.0,
+                    "median": 1.1320621038e+24,
+                    "maximum": 5.80589622236312e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 5.188737229603623e+25,
+                    "amount_usd": 0.0,
+                    "median": 5.188737229603623e+25,
+                    "maximum": 5.188737229603623e+25
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 780,
+                    "senders": 79,
+                    "receivers": 54,
+                    "amount": 5.109937915981866e+25,
+                    "amount_usd": 0.0,
+                    "median": 4.364847626765058e+21,
+                    "maximum": 5.88e+23
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 78,
+                    "senders": 19,
+                    "receivers": 18,
+                    "amount": 5.0921441764214325e+25,
+                    "amount_usd": 0.0,
+                    "median": 2.050979288478504e+23,
+                    "maximum": 5.15317705995938e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 4,
+                    "senders": 3,
+                    "receivers": 3,
+                    "amount": 3.2711754901086795e+25,
+                    "amount_usd": 0.0,
+                    "median": 1.3195759e+25,
+                    "maximum": 1.392058719476191e+25
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 3.180117751383466e+25,
+                    "amount_usd": 0.0,
+                    "median": 3.180117751383466e+25,
+                    "maximum": 3.180117751383466e+25
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 2,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 3.168318785082737e+25,
+                    "amount_usd": 0.0,
+                    "median": 3.133319785082737e+25,
+                    "maximum": 3.133319785082737e+25
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 2,
+                    "senders": 2,
+                    "receivers": 2,
+                    "amount": 2.697589049904992e+25,
+                    "amount_usd": 0.0,
+                    "median": 1.9901716959417926e+25,
+                    "maximum": 1.9901716959417926e+25
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 2.3262847353845845e+25,
+                    "amount_usd": 0.0,
+                    "median": 2.3262847353845845e+25,
+                    "maximum": 2.3262847353845845e+25
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 3,
+                    "senders": 2,
+                    "receivers": 2,
+                    "amount": 1.5678637262382015e+25,
+                    "amount_usd": 0.0,
+                    "median": 3.9310979183726494e+24,
+                    "maximum": 8.223277540806557e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 2,
+                    "senders": 1,
+                    "receivers": 2,
+                    "amount": 1.48745704389895e+25,
+                    "amount_usd": 0.0,
+                    "median": 1.4428333325819815e+25,
+                    "maximum": 1.4428333325819815e+25
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 34,
+                    "senders": 18,
+                    "receivers": 17,
+                    "amount": 1.2566822865642364e+25,
+                    "amount_usd": 0.0,
+                    "median": 1.8936022e+23,
+                    "maximum": 1.2272062579067295e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 1e+25,
+                    "amount_usd": 0.0,
+                    "median": 1e+25,
+                    "maximum": 1e+25
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 40,
+                    "senders": 13,
+                    "receivers": 12,
+                    "amount": 7.143845717100898e+24,
+                    "amount_usd": 0.0,
+                    "median": 1.2004978477313768e+23,
+                    "maximum": 1.1482626437287706e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 5.653129535683019e+24,
+                    "amount_usd": 0.0,
+                    "median": 5.653129535683019e+24,
+                    "maximum": 5.653129535683019e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 15,
+                    "senders": 8,
+                    "receivers": 7,
+                    "amount": 5.364970985839601e+24,
+                    "amount_usd": 0.0,
+                    "median": 6.5704888083390914e+22,
+                    "maximum": 1.4208566674628435e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 4.71781402669006e+24,
+                    "amount_usd": 0.0,
+                    "median": 4.71781402669006e+24,
+                    "maximum": 4.71781402669006e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 3,
+                    "senders": 3,
+                    "receivers": 1,
+                    "amount": 4.1084867681726054e+24,
+                    "amount_usd": 0.0,
+                    "median": 5.79362153907826e+23,
+                    "maximum": 3.5032627418253287e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 2,
+                    "senders": 2,
+                    "receivers": 2,
+                    "amount": 2.960000504033836e+24,
+                    "amount_usd": 0.0,
+                    "median": 1.480000252016918e+24,
+                    "maximum": 1.480000252016918e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 614,
+                    "senders": 82,
+                    "receivers": 101,
+                    "amount": 1.9143349870681605e+24,
+                    "amount_usd": 0.0,
+                    "median": 6.77714326575687e+20,
+                    "maximum": 4.289612967129845e+22
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 1.5719773288564226e+24,
+                    "amount_usd": 0.0,
+                    "median": 1.5719773288564226e+24,
+                    "maximum": 1.5719773288564226e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 24,
+                    "senders": 12,
+                    "receivers": 2,
+                    "amount": 1.4035658089782812e+24,
+                    "amount_usd": 0.0,
+                    "median": 1.5579811463088507e+22,
+                    "maximum": 3.6706488e+23
+                },
+                {
+                    "currency": {
+                        "symbol": "PATRIOT",
+                        "address": "0x24de4b4c68e858b8ab28095ad4f70b7353d7235b"
+                    },
+                    "count": 154,
+                    "senders": 26,
+                    "receivers": 93,
+                    "amount": 1.0000000000000044e+24,
+                    "amount_usd": 0.0,
+                    "median": 10576577.778578172,
+                    "maximum": 1e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "KODAK",
+                        "address": "0x56040d5adf1468f7f0bf37ae65e86a6d27609bd2"
+                    },
+                    "count": 131,
+                    "senders": 15,
+                    "receivers": 93,
+                    "amount": 1.0000000000000039e+24,
+                    "amount_usd": 0.0,
+                    "median": 6274192.100131593,
+                    "maximum": 1e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "LEELA",
+                        "address": "0xf74532d25154ba006cf50f6b8522db3a1e7f5292"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 1e+24,
+                    "amount_usd": 0.0,
+                    "median": 1e+24,
+                    "maximum": 1e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "PUMP",
+                        "address": "0x80193b7de8b30d2b4c82b48008cece271847b45b"
+                    },
+                    "count": 2,
+                    "senders": 2,
+                    "receivers": 1,
+                    "amount": 1e+24,
+                    "amount_usd": 0.0,
+                    "median": 1e+24,
+                    "maximum": 1e+24
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 328,
+                    "senders": 89,
+                    "receivers": 72,
+                    "amount": 7.401594087724163e+23,
+                    "amount_usd": 0.0,
+                    "median": 1.2e+21,
+                    "maximum": 2.8665e+22
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 2066,
+                    "senders": 132,
+                    "receivers": 152,
+                    "amount": 6.000759289479472e+23,
+                    "amount_usd": 0.0,
+                    "median": 1e+20,
+                    "maximum": 7.181069796351564e+21
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 2,
+                    "senders": 1,
+                    "receivers": 2,
+                    "amount": 4.7408769630124e+23,
+                    "amount_usd": 0.0,
+                    "median": 4.736136086049388e+23,
+                    "maximum": 4.736136086049388e+23
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 29,
+                    "senders": 4,
+                    "receivers": 6,
+                    "amount": 4.5753545119937776e+23,
+                    "amount_usd": 0.0,
+                    "median": 2e+21,
+                    "maximum": 1.0383165281361861e+23
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 26,
+                    "senders": 4,
+                    "receivers": 24,
+                    "amount": 3.926968847994567e+23,
+                    "amount_usd": 0.0,
+                    "median": 2.720184949535987e+21,
+                    "maximum": 8.00532186e+22
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 38,
+                    "senders": 12,
+                    "receivers": 13,
+                    "amount": 3.058577624597954e+23,
+                    "amount_usd": 0.0,
+                    "median": 1.22455e+21,
+                    "maximum": 6.4318e+22
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 17,
+                    "senders": 8,
+                    "receivers": 14,
+                    "amount": 2.2872601446546663e+23,
+                    "amount_usd": 0.0,
+                    "median": 1.020366185281695e+22,
+                    "maximum": 5.297841876762949e+22
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 137,
+                    "senders": 32,
+                    "receivers": 37,
+                    "amount": 1.7023429083478846e+23,
+                    "amount_usd": 0.0,
+                    "median": 7.940384127169125e+20,
+                    "maximum": 7.171696282186876e+21
+                },
+                {
+                    "currency": {
+                        "symbol": "MANGO",
+                        "address": "0x2be4963cc5f00d5c077d97f6081f258d932827bc"
+                    },
+                    "count": 25,
+                    "senders": 4,
+                    "receivers": 13,
+                    "amount": 1.2121212121212264e+23,
+                    "amount_usd": 0.0,
+                    "median": 9793381.110406611,
+                    "maximum": 1.2121212121212123e+23
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 1e+23,
+                    "amount_usd": 0.0,
+                    "median": 1e+23,
+                    "maximum": 1e+23
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 2,
+                    "senders": 2,
+                    "receivers": 1,
+                    "amount": 6.688056895307598e+22,
+                    "amount_usd": 0.0,
+                    "median": 6.17709839729826e+22,
+                    "maximum": 6.17709839729826e+22
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 2,
+                    "senders": 2,
+                    "receivers": 2,
+                    "amount": 6.041125722909597e+22,
+                    "amount_usd": 0.0,
+                    "median": 3.0205628614547983e+22,
+                    "maximum": 3.0205628614547983e+22
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 3,
+                    "senders": 2,
+                    "receivers": 2,
+                    "amount": 5.574718201113425e+22,
+                    "amount_usd": 0.0,
+                    "median": 1.0394928043514078e+22,
+                    "maximum": 4.534867283690387e+22
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 2,
+                    "senders": 1,
+                    "receivers": 2,
+                    "amount": 5.574360088041795e+22,
+                    "amount_usd": 0.0,
+                    "median": 4.534867283690387e+22,
+                    "maximum": 4.534867283690387e+22
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 2,
+                    "senders": 2,
+                    "receivers": 1,
+                    "amount": 4.971326190146021e+22,
+                    "amount_usd": 0.0,
+                    "median": 3.97132619014602e+22,
+                    "maximum": 3.97132619014602e+22
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 4.0449e+22,
+                    "amount_usd": 0.0,
+                    "median": 4.0449e+22,
+                    "maximum": 4.0449e+22
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 16,
+                    "senders": 2,
+                    "receivers": 7,
+                    "amount": 3.4932159156521886e+22,
+                    "amount_usd": 0.0,
+                    "median": 2.5165630587690805e+20,
+                    "maximum": 1.44e+22
+                },
+                {
+                    "currency": {
+                        "symbol": "PNUT",
+                        "address": "0x81d4249e2d5b90925f3813b6f99049aa0689650d"
+                    },
+                    "count": 6588,
+                    "senders": 7,
+                    "receivers": 4041,
+                    "amount": 3.102544763527029e+22,
+                    "amount_usd": 0.0,
+                    "median": 6997487678667.847,
+                    "maximum": 7.975665412316452e+19
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 6,
+                    "senders": 2,
+                    "receivers": 4,
+                    "amount": 1.1778554424047975e+22,
+                    "amount_usd": 0.0,
+                    "median": 3.0337491811134184e+20,
+                    "maximum": 5.585902293912646e+21
+                },
+                {
+                    "currency": {
+                        "symbol": "MAGAI",
+                        "address": "0x138558c62ee2871f94ea7103545970d21d4638d3"
+                    },
+                    "count": 82,
+                    "senders": 11,
+                    "receivers": 29,
+                    "amount": 7.000000000000151e+21,
+                    "amount_usd": 0.0,
+                    "median": 555606.0916293729,
+                    "maximum": 7e+21
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "0x365accfca291e7d3914637abf1f7635db165bb09"
+                    },
+                    "count": 181,
+                    "senders": 59,
+                    "receivers": 81,
+                    "amount": 5.901778600331074e+21,
+                    "amount_usd": 0.0,
+                    "median": 4.454219146931601e+18,
+                    "maximum": 9.801467691809216e+20
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 4,
+                    "senders": 2,
+                    "receivers": 4,
+                    "amount": 3.841678726423325e+21,
+                    "amount_usd": 0.0,
+                    "median": 1.1319e+20,
+                    "maximum": 3.65981e+21
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 32,
+                    "senders": 18,
+                    "receivers": 15,
+                    "amount": 3.4081646562905854e+21,
+                    "amount_usd": 0.0,
+                    "median": 5.023845138031807e+19,
+                    "maximum": 7.428828706783157e+20
+                },
+                {
+                    "currency": {
+                        "symbol": "PLUDOGE",
+                        "address": "0xedf46cfb90171f84b57d9b4c38a60edcce4650cf"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 7.528021068928194e+20,
+                    "amount_usd": 0.0,
+                    "median": 7.528021068928194e+20,
+                    "maximum": 7.528021068928194e+20
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 1,
+                    "senders": 1,
+                    "receivers": 1,
+                    "amount": 6.310364731580717e+20,
+                    "amount_usd": 0.0,
+                    "median": 6.310364731580717e+20,
+                    "maximum": 6.310364731580717e+20
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 7,
+                    "senders": 3,
+                    "receivers": 5,
+                    "amount": 5.860219643829164e+20,
+                    "amount_usd": 0.0,
+                    "median": 1.1212199462414094e+19,
+                    "maximum": 2.5104072382496837e+20
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 2,
+                    "senders": 2,
+                    "receivers": 1,
+                    "amount": 3.630978995991283e+20,
+                    "amount_usd": 0.0,
+                    "median": 3.138924863167897e+20,
+                    "maximum": 3.138924863167897e+20
+                },
+                {
+                    "currency": {
+                        "symbol": "-",
+                        "address": "-"
+                    },
+                    "count": 127,
+                    "senders": 12,
+                    "receivers": 46,
+                    "amount": 3.22946045584639e+20,
+                    "amount_usd": 0.0,
+                    "median": 5.027386594203908e+17,
+                    "maximum": 1e+20
+                }
+            ],
+            "dexTrades": [
+                {
+                    "exchange": {
+                        "name": "Uniswap"
+                    },
+                    "tradeAmount": 27645617719315.73
+                },
+                {
+                    "exchange": {
+                        "name": "Dodo"
+                    },
+                    "tradeAmount": 54671634.16245252
+                },
+                {
+                    "exchange": {
+                        "name": "Balancer"
+                    },
+                    "tradeAmount": 43653109.48247466
+                },
+                {
+                    "exchange": {
+                        "name": null
+                    },
+                    "tradeAmount": 28714800.596679173
+                },
+                {
+                    "exchange": {
+                        "name": "PancakeSwap"
+                    },
+                    "tradeAmount": 17790835.41068173
+                },
+                {
+                    "exchange": {
+                        "name": "Zerox Exchange"
+                    },
+                    "tradeAmount": 3669143.0895958906
+                },
+                {
+                    "exchange": {
+                        "name": "SushiSwap"
+                    },
+                    "tradeAmount": 2459017.7267165626
+                },
+                {
+                    "exchange": {
+                        "name": "Curve"
+                    },
+                    "tradeAmount": 277092.1395404699
+                },
+                {
+                    "exchange": {
+                        "name": "Bancor Network"
+                    },
+                    "tradeAmount": 242299.59596819163
+                },
+                {
+                    "exchange": {
+                        "name": "CRO DeFi Swap"
+                    },
+                    "tradeAmount": 54915.54527093598
+                }
+            ]
+        }
+    }
+}

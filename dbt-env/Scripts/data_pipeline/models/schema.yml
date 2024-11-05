@@ -1,0 +1,81 @@
+version: 2
+
+sources:
+  - name: raw
+    database: DBT_DB
+    schema: DBT_SCHEMA
+    tables:
+      - name: RAW_TRANSFERS
+        description: "Raw transfer data from BitQuery API"
+        columns:
+          - name: token_symbol
+            tests:
+              - not_null:
+                  severity: warn
+          - name: amount_usd
+            tests:
+              - not_null
+              - positive_values
+          - name: loaded_at
+            tests:
+              - not_null
+      
+      - name: RAW_DEX_TRADES
+        description: "Raw DEX trade data from BitQuery API"
+        columns:
+          - name: exchange_name
+            tests:
+              - not_null:
+                  severity: warn
+          - name: trade_amount_usd
+            tests:
+              - not_null
+              - positive_values
+
+models:
+  - name: stg_transfers
+    description: "Staged ethereum transfer data"
+    columns:
+      - name: token_symbol
+        tests:
+          - not_null
+      - name: amount_usd
+        tests:
+          - not_null
+          - positive_values
+
+  - name: stg_dex_trades
+    description: "Staged DEX trade data"
+    columns:
+      - name: exchange_name
+        tests:
+          - not_null:
+              severity: warn
+      - name: trade_amount_usd
+        tests:
+          - not_null
+          - positive_values
+
+  - name: daily_transfers
+    description: "Daily aggregated transfer metrics"
+    columns:
+      - name: data_date
+        tests:
+          - not_null
+          - unique
+      - name: total_amount_usd
+        tests:
+          - not_null
+          - positive_values
+
+  - name: daily_dex_trades
+    description: "Daily aggregated DEX trade metrics"
+    columns:
+      - name: data_date
+        tests:
+          - not_null
+          - unique
+      - name: total_volume_usd
+        tests:
+          - not_null
+          - positive_values
